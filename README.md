@@ -1,6 +1,6 @@
 # pseudo3dJSworld
 
-Welcome to the pseudo 3d javascript world (pseudo3djsworld) of Diego Jurado Seguí (diejuse), created as a final project of the "Web applications development" study for the IES Camp de Morvedre (Puerto de Sagunto, Valencia, Spain).
+Welcome to the pseudo 3d javascript world (pseudo3djsworld) of Diego Jurado Seguí (diejuse), created as a final project of the "Web applications development" technician studies for the IES Camp de Morvedre (Puerto de Sagunto, Valencia, Spain).
 I am/was professor of economic subjects at High School and the idea for this project was to create a small sample virtual world full of educational resources where users can gain knowledge while exploring and interacting with the virtual world.
 Explore the world through the management of a player character and it you will find different elements in it. You will be able to see them and interact with some of them. Please read the following instructions before you begin:
 - Enter and exit buildings by opening and closing their <u>doors</u>, clicking on them.
