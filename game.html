@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<meta name="mobile-web-app-capable" content="yes">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=0.6, user-scalable=0">
+<script src="jquery-1.7.min.js"></script>
+<script src="game.js?s=2333"></script>
+<link rel="stylesheet" type="text/css" href="game.css">
+</head>
+<body>
+    <canvas id="minimapa" width=100 height=100></canvas>
+    <div id="escenario" class='entero' >
+        <canvas id="canvas" width=100 height=100 class='entero'></canvas>	
+        <div id="elementosdiv" class='entero' style='z-index:10;' ></div>
+        <div id='objeto' >
+            <canvas id="objeto_manos" width=100 height=100 class='entero' ></canvas>
+            <div id='objeto_accion'></div>
+        </div>
+    </div>	
+    <button id='boton_touchpad'>T</button>
+    <button id='boton_minimapa'>M</button>
+    <div id='presentacion'>
+    <table class='entero'>
+        <tr><td style='height:100%;'>
+            <div class='entero wrap-texto'>
+            <b>Welcome to the pseudo 3d world of Diego Jurado Seguí (diejuse), created as a final project of the "Web applications development" cycle for the IES Camp de Morvedre (Puerto de Sagunto, Valencia, Spain).</b><br>As an economics teacher, the idea for this project was to create a small sample virtual world full of educational resources where users can gain knowledge while exploring and interacting with the virtual world.<br><br>Explore the world through the management of a player character and in it you will find different elements. You will be able to see them and interact with some of them. Please read the following instructions before you begin:<br> - Enter and exit buildings by opening and closing their <u>doors</u>, clicking on them.<br> - You will find items on the ground, including <u>books</u>. Pick them up or drop them by approaching and clicking on them. Once collected, the option to read them will appear on the screen. <br> - You will find <u>images</u> (portraits, paintings...) . Click on those images and you will get information about some of them.<br> - There are <u>non-player characters</u>. They are beings that move randomly. You can approach them for information. Click on them to see what they tell you.<br>- There are also <u>whiteboards</u> where you can read slides when you stand in front of them. Enlarge them and you will read them better. In this version there are two blackboards, one related to the Economy and the other explaining how the project was created.<br> - This world-web is created so that it can be viewed on any device with a modern browser: <i>smartphone, smartwatch, tablet</i> or computer. If your device does not have a physical keyboard and only has a touch screen, press the <u>T button to bring up the virtual keyboard</u>. If your device has a keyboard and is not touch sensitive, use the cursor keys or the QWEASD keys to move the player character and the mouse to click on the displayed items. <br> - In order not to get lost with the first person view, you have a <u>minimap</u> that you can show or hide by pressing the <u>M button</u><br><br><b>I hope you like the visit. Let's explore!</b><br>
+            </div>
+        </td></tr>
+        <tr><td style='height:1%;text-align:center;'><div id='presentacion-OK'><b>OK</b></div></td></tr>
+    </table>
+    </div>
+</body>
+</html>

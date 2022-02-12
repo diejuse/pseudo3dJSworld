@@ -1,0 +1,69 @@
+
+@-o-viewport {
+	width: device-width;
+        max-zoom: 0.6;
+	min-zoom: 0.6;
+	user-zoom: fixed;
+}
+
+html,body{
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    
+    -ms-user-select: none;
+    
+    position:absolute;
+    left:0%;top:0%;width:100%;height:100%;margin:0;padding:0;
+    
+    overflow:hidden;
+
+}
+
+body {background-color:black}
+*   {box-sizing: border-box;}
+td {position:relative;}
+.entero{position:absolute;top:0;left:0;width:100%;height:100%;}
+
+#objeto_accion{
+    position:absolute;bottom:0;left:5%;width:90%;text-align:center;border-radius:10%;background:rgba(0,0,0,0.5);font-size:20px;color:yellow;font-weight:bold;
+}
+#boton_touchpad{
+    position:absolute;top:44%;right:1%;height:9%;width:9%;z-index:12;opacity:0.5;
+}
+#boton_minimapa{
+    position:absolute;top:55%;right:1%;height:9%;width:9%;z-index:12;opacity:0.5;
+}
+#objeto{
+    position:absolute;top:0;left:80%;height:30%;width:20%;z-index:12;display:none;
+}
+#presentacion{
+    position:absolute;left:10%;width:80%;top:10%;height:80%;z-index:100;border:1em solid rgba(0,0,0,0.8);background:rgba(255,255,255,0.91);border-radius:5%;padding:40px;font-size:30px;
+}
+#minimapa{
+    position:absolute;top:10px;left:10px;z-index:25;background:rgba(255,255,255,0.5);border:2px solid darkred;border-radius:10%;
+}
+#presentacion-OK{
+    margin:1em;border:1px solid black;color:black;background:rgba(0,0,0,0.5);font-size:30px;
+}
+#lecturalibro{
+    position:absolute;left:.5%;width:99%;top:1%;height:98%;z-index:100;border:1em solid rgba(0,0,0,0.8);background:rgba(255,255,255,0.91);border-radius:5%;
+
+}
+
+.wrap-texto{
+    overflow-y:auto;padding:20px;font-size:22px;line-height:1.5em;
+}
+.wrap-textoOK{
+    margin:1em;border:1px solid black;color:black;background:rgba(0,0,0,0.5);font-size:30px;
+}
+#bocadillo{
+    color:darkblue;font-size:25px;letter-spacing: -2px;font-weight:bold;opacity:1;z-index:6;margin: 50px auto;heigth:10%;background-color: white;border: solid 4px blue;border-radius:20%;max-width:70%;max-height:25%;padding:10px;opacity:0.9;overflow-y:auto;
+}
+#bocadillo > div {
+    text-align:center;display:inline-block;width:100%;
+}
+#infoMsg{
+    position:absolute;bottom:5%;color:blue;left:20%;width:60%;background:rgba(255, 232, 200,0.9);border:10px solid rgba(0,0,0,0.5);border-radius:5%;font-weight:bold;font-size:24px;padding:10px;
+}
