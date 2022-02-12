@@ -9,6 +9,6 @@ Explore the world through the management of a player character and it you will f
 - There are non-player characters. They are beings that move randomly. You can approach them for information. Click on them to see what they tell you.
 - There are also whiteboards where you can read slides when you stand in front of them. Enlarge them and you will read them better. In this version there are two blackboards, one related to the Economy and the other explaining how the project was created.
 - This world-web is created so that it can be viewed on any device with a modern browser: smartphone, smartwatch, tablet or computer. If your device does not have a physical keyboard and only has a touch screen, press the T button to bring up the virtual keyboard. If your device has a keyboard and is not touch sensitive, use the cursor keys or the QWEASD keys to move the player character and the mouse to click on the displayed items.
-- In order not to get lost with the first person view, you have a <u>minimap</u> that you can show or hide by pressing the <u>M button</u>
+- In order not to get lost with the first person view, you have a minimap that you can show or hide by pressing the M button.
 
 <b>I hope you like the visit. Let's explore!
