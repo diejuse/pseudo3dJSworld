@@ -1,6 +1,6 @@
 # pseudo3dJSworld
 
-[![Demo]](https://www.youtube.com/watch?v=LsXU9L-P95c)
+[![Demo](https://img.youtube.com/vi/LsXU9L-P95c/0.jpg)](https://www.youtube.com/watch?v=LsXU9L-P95c)
 
 
 
