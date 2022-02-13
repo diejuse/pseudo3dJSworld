@@ -1,8 +1,9 @@
 # pseudo3dJSworld
 
+Video:
 [![Demo](https://img.youtube.com/vi/LsXU9L-P95c/0.jpg)](https://www.youtube.com/watch?v=LsXU9L-P95c)
 
-
+Web: http://mural.uv.es/diejuse/finProyecto/
 
 Welcome to the pseudo 3d javascript world (pseudo3djsworld) of Diego Jurado Seguí (diejuse), created as a final project of the "Web applications development" technician studies for the IES Camp de Morvedre (Puerto de Sagunto, Valencia, Spain).
 I am/was professor of economic subjects at High School and the idea for this project was to create a small sample virtual world full of educational resources where users can gain knowledge while exploring and interacting with the virtual world.
